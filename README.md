@@ -1,4 +1,4 @@
-# Hello 👋 My name is Sebastian and I am a web developer from Poland.
+# Hello, my name is Sebastian 👋
 
 ## 🌐 Socials:
 
